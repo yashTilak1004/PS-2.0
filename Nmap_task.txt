@@ -1,0 +1,13 @@
+Day 3
+//kmitonline.com
+nmap(Output in a file)
+1.IP address
+2.Open ports and services
+3.Operating system and version
+Solution:
+1.54.158.99.207
+2.PORT   STATE SERVICE VERSION
+  22/tcp open  ssh     OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)
+  80/tcp open  http    Apache httpd (PHP 5.5.9-1ubuntu4.29)
+
+3.Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
