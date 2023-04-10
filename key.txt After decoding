@@ -1,4 +1,6 @@
 root@LAPTOP-U4IS03TV:~# grep -o "[A-Za-z0-9]" key.txt
+P
+K
 e
 y
 2
